@@ -1,5 +1,5 @@
 # MyMilitaryServiceLog
-Log while serving ROKAF(Republic of Korea Air Force) service while 2020.1.13-2021.11.12
+Log while serving ROKAF(Republic of Korea Air Force) service while 2020.1.13-2021.10.16
 
 ## 왜 이 레포지토리를 만들었는가?
 
