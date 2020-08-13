@@ -1,5 +1,13 @@
 # Lambda Function vs Closure
 
+* 서문
+
+* 본문의 두 번째 답변
+
+* 번역 사전, glossary
+
+## 서문
+
 이 글을 쓴 이유는 Swift를 공부하다가 클로저라는게 내가 알고 있던 람다(Lambda function)였다는 걸 알게된 것이였다.
 
 람다와 클로저가 혼용되어서 스택오버플로우 답변을 한줄 한줄 번역하면서 정리하기로 했다.
@@ -8,7 +16,7 @@
 
 [What is the difference between a closure and a lambda?](https://stackoverflow.com/questions/220658/what-is-the-difference-between-a-closure-and-a-lambda)
 
-본문의 두 번째 답변
+## 본문의 두 번째 답변
 
 There is a lot of confusion around lambdas and closures, even in the answers to this StackOverflow question here. 
 
@@ -383,3 +391,15 @@ I hope that answers your questions. But if you had any follow-up questions, feel
 
 
 끝!
+
+## 번역 사전, glossary
+
+람다 대수학 - Lambda Calculus
+표현, 표현식 - expression
+하위 표현, 하위 표현식 - subexpression
+기능적 추상화 - functional abstraction
+변수 - variable
+환경 문맥 - surrounding context
+문맥 - context
+컴비네이터  - combinator
+사전적 변수 영역 - Lexical Scoping
