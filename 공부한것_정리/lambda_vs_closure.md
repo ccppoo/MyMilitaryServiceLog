@@ -395,11 +395,19 @@ I hope that answers your questions. But if you had any follow-up questions, feel
 ## 번역 사전, glossary
 
 람다 대수학 - Lambda Calculus
+
 표현, 표현식 - expression
+
 하위 표현, 하위 표현식 - subexpression
+
 기능적 추상화 - functional abstraction
+
 변수 - variable
+
 환경 문맥 - surrounding context
+
 문맥 - context
+
 컴비네이터  - combinator
+
 사전적 변수 영역 - Lexical Scoping
